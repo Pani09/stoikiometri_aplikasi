@@ -1,4 +1,5 @@
 import streamlit as st 
+from PIL import Image 
 
 st.image("images\gambar2.png")    
 with st.sidebar.container():
